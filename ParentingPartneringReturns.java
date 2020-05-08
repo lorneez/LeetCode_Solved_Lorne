@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Solution {
+public class ParentingPartneringReturns {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner myScanner = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         int cases = Integer.parseInt(myScanner.nextLine());
