@@ -1,5 +1,10 @@
 import java.util.HashMap;
 
+/**
+ * Runtime complexity: O(n)
+ * Space complexity: O(n)
+ * CheckMagazine checks if a ransom note is able to be made with a map.
+ */
 public class CheckMagazine {
     static void checkMagazine(String[] magazine, String[] note) {
         HashMap<String, Integer> map = new HashMap<>();
