@@ -1,4 +1,4 @@
-# Leetcode-Solved-Problems
+# Leetcode 2020
 ## CTCI Arrays And Strings
 * 7
 ## CTCI LinkedLists
